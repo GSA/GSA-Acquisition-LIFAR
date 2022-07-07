@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2106_T48_607407">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2106</ph> - COMPETITION REQUIREMENTS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8709; 40 U.S.C. 486(c); 48 CFR 1.301.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2106_70_T48_6074071.dita#Subpart_2106_70_T48_6074071">Subpart 2106.70 - Applicability</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2106_7001_T48_607407111.dita#Section_2106_7001_T48_607407111">2106.7001 Applicability.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

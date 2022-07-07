@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2128_T48_6074315">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2128</ph> - BONDS AND INSURANCE</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8716; 40 U.S.C. 486(c); 48 CFR 1.301.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2128_3_T48_60743151.dita#Subpart_2128_3_T48_60743151">Subpart 2128.3 - Insurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2128_370_T48_6074315111.dita#Section_2128_370_T48_6074315111">2128.370 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

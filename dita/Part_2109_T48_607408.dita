@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2109_T48_607408">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2109</ph> - CONTRACTOR QUALIFICATIONS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8716; 40 U.S.C. 486(c); 48 CFR 1.301.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           58 FR 40374, July 28, 1993, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2109_4_T48_6074081.dita#Subpart_2109_4_T48_6074081">Subpart 2109.4 - Debarment, Suspension, and Ineligibility</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2109_408_T48_607408111.dita#Section_2109_408_T48_607408111">2109.408 Certification regarding debarment, suspension, proposed debarment and other responsibility matters.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2109_409_T48_607408112.dita#Section_2109_409_T48_607408112">2109.409 Certification and contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2109_70_T48_6074082.dita#Subpart_2109_70_T48_6074082">Subpart 2109.70 - Minimum Standards for FEGLI Program Contractors</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2109_7001_T48_607408211.dita#Section_2109_7001_T48_607408211">2109.7001 Minimum standards for FEGLI Program contractors.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

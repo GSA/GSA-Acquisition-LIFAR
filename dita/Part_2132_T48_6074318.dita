@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2132_T48_6074318">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2132</ph> - CONTRACT FINANCING</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8716; 40 U.S.C. 486(c); 48 CFR 1.301. 
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           58 FR 40379, July 28, 1993, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2132_1_T48_60743181.dita#Subpart_2132_1_T48_60743181">Subpart 2132.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_170_T48_6074318111.dita#Section_2132_170_T48_6074318111">2132.170 Recurring premium payments to Contractors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_171_T48_6074318112.dita#Section_2132_171_T48_6074318112">2132.171 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2132_6_T48_60743182.dita#Subpart_2132_6_T48_60743182">Subpart 2132.6 - Contract Debts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_607_T48_6074318211.dita#Section_2132_607_T48_6074318211">2132.607 Tax credit.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_617_T48_6074318212.dita#Section_2132_617_T48_6074318212">2132.617 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2132_7_T48_60743183.dita#Subpart_2132_7_T48_60743183">Subpart 2132.7 - Contract Funding</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_770_T48_6074318311.dita#Section_2132_770_T48_6074318311">2132.770 Insurance premium payments and special contingency reserve.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_771_T48_6074318312.dita#Section_2132_771_T48_6074318312">2132.771 Non-commingling of FEGLI Program funds.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_772_T48_6074318313.dita#Section_2132_772_T48_6074318313">2132.772 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2132_8_T48_60743184.dita#Subpart_2132_8_T48_60743184">Subpart 2132.8 - Assignment of Claims</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2132_806_T48_6074318411.dita#Section_2132_806_T48_6074318411">2132.806 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2104_T48_607395">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2104</ph> - ADMINISTRATIVE MATTERS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8716; 40 U.S.C. 486(c); 48 CFR 1.301.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           58 FR 40373, July 28, 1993, unless otherwise noted. 
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2104_7_T48_6073951.dita#Subpart_2104_7_T48_6073951">Subpart 2104.7 - Contractor Records Retention</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2104_703_T48_607395111.dita#Section_2104_703_T48_607395111">2104.703 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2104_9_T48_6073952.dita#Subpart_2104_9_T48_6073952">Subpart 2104.9 - Taxpayer Identification Number</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2104_9001_T48_607395211.dita#Section_2104_9001_T48_607395211">2104.9001 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2104_70_T48_6073953.dita#Subpart_2104_70_T48_6073953">Subpart 2104.70 - Designation of Authorized Personnel</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2104_7001_T48_607395311.dita#Section_2104_7001_T48_607395311">2104.7001 Designation of authorized personnel.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

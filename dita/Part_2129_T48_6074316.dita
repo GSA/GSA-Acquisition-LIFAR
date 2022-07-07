@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2129_T48_6074316">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2129</ph> - TAXES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8716; 40 U.S.C. 486(c); 48 CFR 1.301.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           58 FR 40377, July 28, 1993, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2129_1_T48_60743161.dita#Subpart_2129_1_T48_60743161">Subpart 2129.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2129_170_T48_6074316111.dita#Section_2129_170_T48_6074316111">2129.170 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2129_3_T48_60743162.dita#Subpart_2129_3_T48_60743162">Subpart 2129.3 - State and Local Taxes</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2129_302_T48_6074316211.dita#Section_2129_302_T48_6074316211">2129.302 Application of State and local taxes to the Government.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2129_305_T48_6074316212.dita#Section_2129_305_T48_6074316212">2129.305 State and local tax exemptions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2129_4_T48_60743163.dita#Subpart_2129_4_T48_60743163">Subpart 2129.4 - Contract Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2129_401_T48_6074316311.dita#Section_2129_401_T48_6074316311">2129.401 Domestic contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2129_401_70_T48_6074316312.dita#Section_2129_401_70_T48_6074316312">2129.401-70 FEGLI Program contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

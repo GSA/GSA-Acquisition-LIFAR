@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2149_T48_6074524">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2149</ph> - TERMINATION OF CONTRACTS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8716; 40 U.S.C. 486(c); 48 CFR 1.301. 
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           58 FR 40380, July 28, 1993, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_2149_002_T48_6074524011.dita#Section_2149_002_T48_6074524011">2149.002 Applicability.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2149_5_T48_60745241.dita#Subpart_2149_5_T48_60745241">Subpart 2149.5 - Contract Termination Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2149_505_T48_6074524111.dita#Section_2149_505_T48_6074524111">2149.505 Other termination clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2149_505_70_T48_6074524112.dita#Section_2149_505_70_T48_6074524112">2149.505-70 FEGLI Program contract termination clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
